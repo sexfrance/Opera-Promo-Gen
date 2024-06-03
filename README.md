@@ -27,7 +27,7 @@
   - Custom RPC
   - Super Fast
   - Simple & easy to use
-  - 
+  - More but I forgot since I made it in january 🤓
 
 ---
 
