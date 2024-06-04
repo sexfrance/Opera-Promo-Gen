@@ -42,14 +42,17 @@
 ### 📜 ChangeLog
 
 ```diff
-v0.0.1 ⋮ 4/9/2023
+v0.0.1 ⋮ 6/3/2024
 ! Initial release
+
+v0.0.2 ⋮ 6/4/2024
+! Fixed README.md links issue
 ```
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/sexfrance/discord-license-bot.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/stars/sexfrance/discord-license-bot.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/languages/top/sexfrance/discord-license-bot.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
+  <img src="https://img.shields.io/github/license/sexfrance/Opera-Promo-Gen.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/stars/sexfrance/Opera-Promo-Gen.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/languages/top/sexfrance/Opera-Promo-Gen.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
 </p>
