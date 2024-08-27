@@ -5,7 +5,7 @@
     A simple program where you can gen discord nitro promos using OperaGX
     <br />
     <br />
-    <a href="https://discord.gg/bestnitro">💬 Discord</a>
+    <a href="https://discord.cyberious.xy">💬 Discord</a>
     ·
     <a href="https://github.com/sexfrance/Opera-Promo-Gen#-changelog">📜 ChangeLog</a>
     ·
